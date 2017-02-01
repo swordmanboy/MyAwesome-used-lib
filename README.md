@@ -11,3 +11,6 @@ Library is used for me.
 
 <p>Case Study for use thread</p>
 <a href="http://stackoverflow.com/questions/24056205/how-to-use-background-thread-in-swift/25070476#25070476">Link Use Background Thread good case</a>
+
+<p>Timeline Load Facebook</p>
+<a href="https://github.com/samhann/Loader.swift">Timeline Load Facebook</a>
