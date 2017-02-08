@@ -14,3 +14,7 @@ Library is used for me.
 
 <p>Timeline Load Facebook</p>
 <a href="https://github.com/samhann/Loader.swift">Timeline Load Facebook</a>
+
+
+<h4>Animation</h4>
+<a href="https://github.com/airbnb/lottie-ios">lottie-ios</a>
