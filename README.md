@@ -7,6 +7,7 @@ Library is used for me.
 
 <div>Alert View</div>
 <a href="https://github.com/nimati/FCAlertView">FCAlertView</a></br>
+<a href="https://github.com/ninjaprox/NVActivityIndicatorView">Progress bar hud</a></br>
 
 
 <p>Case Study for use thread</p>
@@ -18,3 +19,5 @@ Library is used for me.
 
 <h4>Animation</h4>
 <a href="https://github.com/airbnb/lottie-ios">lottie-ios</a>
+
+
