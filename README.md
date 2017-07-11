@@ -20,4 +20,6 @@ Library is used for me.
 <h4>Animation</h4>
 <a href="https://github.com/airbnb/lottie-ios">lottie-ios</a>
 
+<h4>Progress Bar</h4>
+<a href="https://github.com/ninjaprox/NVActivityIndicatorView">NVAct</a>
 
